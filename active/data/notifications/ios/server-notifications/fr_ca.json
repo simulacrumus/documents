@@ -1,0 +1,7 @@
+{
+  "id": 0,
+  "isActive": false,
+  "isCritical": true,
+  "title": "Maintenance du serveur",
+  "message": "Le serveur est en panne, nous travaillons à le réparer..."
+}
